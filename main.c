@@ -39,16 +39,16 @@ int main(int argc, char** argv) {
         //for(j=0;j<N-1-j;j++){
             //if((strcmp(selezione[j].nome,selezione[j+1].nome)>0){
                 
-               // temp=selezione[j];
-               // selezione[j]=selezione[j+1];
-               // selezione[j+1]=temp;
+               //temp=selezione[j];
+                //selezione[j]=selezione[j+1];
+                //selezione[j+1]=temp;
                 
-           //}
+          // }
         //}
     
    //}
     
-    funzione;
+    funzione( selezione,N,evitare,ripetere);
   
     fclose(evitare);
     fclose(ripetere);
